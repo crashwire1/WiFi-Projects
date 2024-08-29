@@ -1,7 +1,8 @@
 # WiFi-Projects
 Author: Crashwire
-
+---
 🎯 About This Repo
+---
 This repository contains various tools and resources to assist with WiFi pentesting. Whether you're conducting a red team operation or an authorized security assessment, these scripts and tools are designed to help you effectively identify and exploit WiFi network vulnerabilities.
 
 ⚙️ Current Projects
@@ -13,13 +14,14 @@ A collection of custom captive portal templates designed for Evil Twin and Evil 
 
 🛠️ How to Use
 Edit and Review: Open the wordlist or template files and make any necessary modifications to suit your specific use case.
-
+---
 Deploy: Use the wordlist with your preferred WiFi hacking tool (e.g., Aircrack-ng, Wifite) for PNL attacks. Deploy the captive portal templates using a tool like WiFi Pineapple or any compatible hardware/software.
 
 Execute: Follow the usage guidelines for each tool or script provided in the repository documentation.
 
 🚀 Getting Started
 Clone the repo and start using the tools:
+---
 ```
 git clone https://github.com/yourusername/WiFi-Projects.git
 cd WiFi-Projects
@@ -28,3 +30,4 @@ cd WiFi-Projects
 USE CAUTION when implementing these tools on any network. They are intended for authorized security assessments and educational purposes only. The author is not responsible for any misuse or damage caused by these scripts.
 
 Happy Hacking! 💀
+---
