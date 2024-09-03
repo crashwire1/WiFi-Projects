@@ -24,6 +24,8 @@ Clone the repo and start using the tools:
 ---
 ```
 git clone https://github.com/yourusername/WiFi-Projects.git
+```
+```
 cd WiFi-Projects
 ```
 ⚠️ Disclaimer
