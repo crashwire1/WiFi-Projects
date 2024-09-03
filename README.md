@@ -23,10 +23,7 @@ Execute: Follow the usage guidelines for each tool or script provided in the rep
 Clone the repo and start using the tools:
 ---
 ```
-git clone https://github.com/yourusername/WiFi-Projects.git
-```
-```
-cd WiFi-Projects
+git clone https://github.com/crashwire1/WiFi-Projects.git
 ```
 ⚠️ Disclaimer
 USE CAUTION when implementing these tools on any network. They are intended for authorized security assessments and educational purposes only. The author is not responsible for any misuse or damage caused by these scripts.
