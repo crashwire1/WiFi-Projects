@@ -13,7 +13,6 @@
 | Asus                | http://192.168.1.1     | admin            | admin            |
 | Synology            | http://192.168.1.1     | admin            | Admin            |
 | Arris               | http://192.168.0.1     | admin            | password         |
-| Apple iPhone IOS 4.X| http://10.0.1.1        | root             | alpine           |
 | Dell                | http://192.168.1.1     | admin            | password         |
 | Huawei ADSL2+       | http://192.168.0.1     | admin            | admin            |
 | Netcomm             | http://192.168.1.1     | admin            | password         |
